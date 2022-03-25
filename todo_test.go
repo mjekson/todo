@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mjekson/interacting/todo"
+	"github.com/mjekson/todo"
 )
 
 func TestAdd(t *testing.T) {

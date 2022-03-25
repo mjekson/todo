@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mjekson/interacting/todo"
+	"github.com/mjekson/todo"
 )
 
 const todoFileName = ".todo.json"
